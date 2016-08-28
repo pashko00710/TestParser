@@ -1,0 +1,1 @@
+package com.example.pashko00710.testparser.interfaces;public interface ClickListener {    public void onItemClick(int position);}

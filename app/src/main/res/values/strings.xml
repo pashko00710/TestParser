@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">TestParser</string>    <string name="empty_list_msg">List is empty</string>    <string name="internet_is_not_found">Internet is not found</string></resources>

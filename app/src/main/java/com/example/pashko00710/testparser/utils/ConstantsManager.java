@@ -1,0 +1,1 @@
+package com.example.pashko00710.testparser.utils;public class ConstantsManager {    public static final String BASE_URL = "https://obscure-shelf-31484.herokuapp.com";}

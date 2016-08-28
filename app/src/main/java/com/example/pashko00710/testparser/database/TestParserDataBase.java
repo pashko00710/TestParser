@@ -1,0 +1,1 @@
+package com.example.pashko00710.testparser.database;import com.raizlabs.android.dbflow.annotation.Database;@Database(name = TestParserDataBase.NAME, version = TestParserDataBase.VERSION)public class TestParserDataBase {    public static final String NAME = "TestParserDatabase";    public static final int VERSION = 1;}
